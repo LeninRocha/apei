@@ -1,0 +1,26 @@
+[
+    {
+      "title":"Bia",
+      "classe": "b1",
+      "thumb":"https://i.ibb.co/yR2kZT5/bia.jpg",
+      "tamanho":"36"
+    },
+    {
+        "title":"Novata",
+        "classe": "b2",
+        "thumb":"https://i.ibb.co/LdFQ32B/novata.jpg",
+        "tamanho":"36"
+    },
+    {
+        "title":"Larissa",
+        "classe": "b2",
+        "thumb":"https://i.ibb.co/BcgtbbS/larissa.jpg",
+        "tamanho":"36"
+    },
+    {
+        "title":"Samara",
+        "classe": "b1",
+        "thumb":"https://i.ibb.co/0QNnVR4/samara.jpg",
+        "tamanho":"36"
+    }
+  ]
