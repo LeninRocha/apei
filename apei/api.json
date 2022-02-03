@@ -1,26 +1,32 @@
 [
     {
-      "title":"Bia",
-      "classe": "b1",
-      "thumb":"https://i.ibb.co/yR2kZT5/bia.jpg",
+      "title":"Walesca",
+      "classe": "b2",
+      "thumb":"https://ibb.co/k0PPZg8",
       "tamanho":"36"
     },
     {
-        "title":"Novata",
+        "title":"Natasha",
         "classe": "b2",
-        "thumb":"https://i.ibb.co/LdFQ32B/novata.jpg",
+        "thumb":"https://i.ibb.co/Lxpp1L7/Design-sem-nome2.png",
         "tamanho":"36"
     },
     {
         "title":"Larissa",
         "classe": "b2",
-        "thumb":"https://i.ibb.co/BcgtbbS/larissa.jpg",
+        "thumb":"https://i.ibb.co/t2nbJ5j/Design-sem-nome.png",
         "tamanho":"36"
     },
     {
         "title":"Samara",
         "classe": "b1",
-        "thumb":"https://i.ibb.co/0QNnVR4/samara.jpg",
+        "thumb":"https://i.ibb.co/VVhj86D/Design-sem-nome4.png",
         "tamanho":"36"
+    },
+     {
+      "title":"Rogerinho",
+      "classe": "b1",
+      "thumb":"https://i.ibb.co/GdbCM9n/Design-sem-nome.png",
+      "tamanho":"41"
     }
   ]
